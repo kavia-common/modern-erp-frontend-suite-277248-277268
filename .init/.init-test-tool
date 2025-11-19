@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/modern-erp-frontend-suite-277248-277268/backend"
+}
